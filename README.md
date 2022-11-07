@@ -3,6 +3,6 @@ This repository cleans data collected from offical website (not available anymor
   - data in raw_data.txt contains html, encoded string that presents Vietnamese letters
   - cleaning.py converts raw data into csv format, with -1 represnts N/A, write the output to clean_data.csv
 
-##Barchart
+## Barchart
   - The amount of contestants quit on each subjects
-  !a[](./images/barchart.png)
+  ![alt text](./images/barchart.png)
