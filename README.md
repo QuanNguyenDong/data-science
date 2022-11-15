@@ -5,4 +5,7 @@ This repository cleans data collected from offical website (not available anymor
 
 ## Barchart
   - The amount of contestants quit on each subjects
-  ![alt text](./images/barchart.png)
+  ![number of students](./images/barchart.png)
+
+  - Average score based on number of subjects taken
+  ![average score](./images/barchart_average_score.png)
