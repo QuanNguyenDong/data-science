@@ -9,3 +9,11 @@ This repository cleans data collected from offical website (not available anymor
 
   - Average score based on number of subjects taken
   ![average score](./images/barchart_average_score.png)
+
+## Piechart
+  - The distribution of number subjects taken
+  ![](./images/piechart.png)
+
+## Barchart combined with line chart
+  - Average score based on students' age
+  ![](./images/barchart_linechart.png)
